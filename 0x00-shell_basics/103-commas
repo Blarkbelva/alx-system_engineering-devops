@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -ap --format=
+ls -ap --format=comma
+
